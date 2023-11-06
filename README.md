@@ -31,9 +31,9 @@ To construct a python program to implement approximate inference using Gibbs Sam
 (i)  Print the calculated approximate probabilities for the specified query_variable.<br>
 
 ## Program :
-Developed By : **Akash A**
+Developed By : THAMARAISELVAN V
 </br>
-Register No. : **212221230003**
+Register No. : 212221230115
 ```py
 # Import the necessary libraries
 
